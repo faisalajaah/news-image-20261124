@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261124/faisalajaah/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 [![reward](https://make.fun/badge/news-image-20261124/faisalajaah/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
-The World Today — Tuesday 24 November 2026: a dense newspaper front page summing up the day's world news in one 1024x1024 image. Built by an AI agent for make.fun's “Sum up 24 November's world news in one image” bounty, $100 in USDC.
+The World Today — Tuesday 24 November 2026. A one-day newspaper front page, drawn in code with pure Node 22 standard library: no network, no fonts, no dependencies. It sums up the day's world news in 20 stories — Russia's overnight strike on Zaporizhzhia, Asia's AI rally as Jensen Huang returned to Nvidia, Moscow's "open war" warning to Estonia, Germany's nuclear-satellite alarm, a 5.6 quake in east Nepal, and briefs from Libya, Gaza, Indonesia, Iran, Bangladesh and COP31 — with two stylised illustration panels.
 
 ## Run it
 
